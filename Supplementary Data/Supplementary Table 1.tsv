@@ -1,0 +1,42 @@
+90 genes up-regulated across blood immune cells in SLE vs. HD as in ferred by ldVAE modeling:
+AL928742.12	ANKRD28	APOBEC3A	APOBR	APOL6	ASCL2	ATG2A	BHLHE40	C1orf21,
+C1QA	C1QB	CCDC50	CCR1	CD163	CD84	CDKN1A	CDKN1C	CEP78	CES1	CTNNB1	CX3CR1	EGR1,
+FAM129A	FAM198B	FAM46C	FCAR	FCGR3A	FCGR3B	FGD2	GBP5	GPRIN3	GZMK	HERC5	HES4	HMOX1,
+HSH2D	HSPA1A	HSPA1B	IDO1	IFI27	IFI44	IFI44L	IFI6	IFIT1	IFIT2	IFIT3	IFITM3	IGFBP7,
+IL2RB	IRF7	ISG15	ITGAM	LMNA	LPAR6	LRRC26	LY6E	LYPD2	MEG3	MEGF9	MIR4435-1HG,
+MS4A7	MT2A	MXD1	MYBL1	NCF1	NRGN	PLSCR1	PRDM1	PTGDS	PTMS	PTPN12	QPCT	RGS1	RHOC,
+RP11-290F20.3	S1PR5	SAMD9	SAP30	SCO2	SCT	SMC4	STAT1	STOM	TCF4	TGFBR3	THRB	TLR2,
+TRIB1	VMO1	ZBP1
+
+
+
+37 genes up-regulated in SLE and found by both ldVAE modeling and differnetial expression analysis:
+ [1] APOBEC3A APOL6    BHLHE40  C1QA     C1QB     CCR1     CD163    CDKN1A  
+ [9] CX3CR1   FCGR3A   GBP5     HERC5    HSH2D    HSPA1A   IFI27    IFI44   
+[17] IFI44L   IFI6     IFIT1    IFIT2    IFIT3    IFITM3   IRF7     ISG15   
+[25] LY6E     LYPD2    MEG3     MT2A     NCF1     PLSCR1   RGS1     SAMD9   
+[33] SAP30    STAT1    TCF4     TRIB1    VMO1
+
+13 of the above 37 genes are in Reactome "R-HSA-913531"	"Interferon Signaling"
+GBP5	HERC5	HSPA1A	IFITM3	IFI6	IFI27	IFIT2	IFIT1	IFIT3	IRF7	ISG15	MT2A	STAT1
+
+11 of the above 37 are in "GO:0012501"	"programmed cell death"
+CDKN1A	GBP5	CX3CR1	IFI6	HSPA1A	IFI27	IFIT2	IFIT3	IRF7	PLSCR1	STAT1
+
+
+
+53 up-regulated genes identified by ldVAE modeling but not by diffferential expression analysis:
+ [1] AL928742.12   ANKRD28       APOBR         ASCL2         ATG2A         C1orf21      
+ [7] CCDC50        CD84          CDKN1C        CEP78         CES1          CTNNB1       
+[13] EGR1          FAM129A       FAM198B       FAM46C        FCAR          FCGR3B       
+[19] FGD2          GPRIN3        GZMK          HES4          HMOX1         HSPA1B       
+[25] IDO1          IGFBP7        IL2RB         ITGAM         LMNA          LPAR6        
+[31] LRRC26        MEGF9         MIR4435-1HG   MS4A7         MXD1          MYBL1        
+[37] NRGN          PRDM1         PTGDS         PTMS          PTPN12        QPCT         
+[43] RHOC          RP11-290F20.3 S1PR5         SCO2          SCT           SMC4         
+[49] STOM          TGFBR3        THRB          TLR2          ZBP1 
+
+7 of the 53 are IFN genes: CD84 CES1 EGR1 MXD1 PTMS RHOC SMC4
+
+17 are debris-processing genes: 
+ATG2A CCDC50 CDKN1C FAM129A FAM46C FCAR FCGR3B GZMK IGFBP7 ITGAM PTGDS QPCT S1PR5 SCO2 STOM TLR2 ZBP1

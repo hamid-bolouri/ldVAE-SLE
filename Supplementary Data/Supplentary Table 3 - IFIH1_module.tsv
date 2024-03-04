@@ -1,0 +1,142 @@
+B naive
+  [1] IFIT1    IFIT2    IFIT3    IFIT5    IFITM1   IFITM2   IFITM3   IFT57   
+  [9] IGFBP4   IKZF3    IL15     IL7      IL7R     IQGAP2   IRAK1    IRF7    
+ [17] IRF8     IRF9     ISG15    ISG20    ITGB1    ITM2C    IVD      JAZF1   
+ [25] JOSD2    JUP      KLF6     LAP3     LBH      LDHB     LDLRAP1  LGALS1  
+ [33] LGALS9   LIMS1    LMO4     LPP      LPXN     LY6E     MACROD2  MAN1A1  
+ [41] MAP4     MARCKS   MBIP     MIDN     MLKL     MNDA     MPP6     MRPL40  
+ [49] MRPL41   MRPL44   MS4A7    MSMO1    MT2A     MX1      MX2      MYC     
+ [57] MYNN     MZT2A    NABP1    NAGK     NCF1     NCOA7    NEAT1    NEXN    
+ [65] NMI      NR4A2    OAS1     OAS2     P2RX5    PAPOLG   PARP11   PARP12  
+ [73] PARP14   PARP9    PEA15    PFKP     PHF11    PHPT1    PHRF1    PIK3IP1 
+ [81] PLAC8    PLEK     PLEKHO1  PLSCR1   PML      PPM1K    PPP1R14A PPP1R14B
+ [89] PPP1R15A PRDX1    PSAP     PSENEN   PSMB9    PSME1    PSME2    PTPN1   
+ [97] PTPN12   PTPN22   PTPRC    PTTG1    PXK      PYCARD   RAB29    RARRES3 
+[105] RASGRP3  RBCK1    RBM43    REEP3    RHOB     RILPL2   RIN3     RNASEH2C
+[113] RNF11    RNF114   RNF213   RNGTT    S100A11  S100A4   S100A6   SAMD1   
+[121] SAMD9    SAMD9L   SAMHD1   SCLT1    SCML4    SEC61B   SESN1    SHISA5  
+[129] SKA2     SLC15A4  SLC25A24 SLFN13   SLFN5    SMG7     SNX8     SOCS1   
+[137] SP110    SPAG1    SPN      SRGN     ST3GAL5  ST8SIA4  STAG3    STAMBPL1
+[145] STAT1    STK3     STOM     SUMO3    SYNGR2   TALDO1   TAP1     TCF7    
+[153] TFDP1    TFEB     TLE1     TLE3     TMEM123  TNFAIP3  TNFRSF1B TNFSF10 
+[161] TNIP1    TNIP2    TNPO3    TP53I11  TP53INP1 TRANK1   TRAPPC11 TRIM14  
+[169] TRIM22   TRIM25   TRIM5    TSC22D1  TSC22D3  TSPAN14  TTC39B   TTN     
+[177] TXN      TYMP     UACA     UBALD2   UBE2J1   UBE2L3   UBE2L6   VAMP5   
+[185] VIM      VOPP1    VPREB3   VRK2     WDFY1    WDFY4    WEE1     XAF1    
+[193] XRN1     YWHAH    ZBP1     ZCCHC2   ZFP90    ZNF827   ZNFX1   
+
+CD14+ Monos
+  [1] IFIT1       IFIT2       IFIT3       IFIT5       IFITM1      IFITM2     
+  [7] IFITM3      IFNGR1      IGF2BP3     IKBKE       IKZF2       IKZF3      
+ [13] IL12RB1     IL15RA      IL1R2       IL1RAP      IL1RN       IL4I1      
+ [19] IRAK1       IRF5        IRF7        IRF8        IRF9        IRS2       
+ [25] ISG15       ISG20       ITGA1       ITGAX       ITGB7       JAK3       
+ [31] JAZF1       JDP2        JUP         KCNJ2       KIAA1958    KLF9       
+ [37] KLHDC7B     KLHL2       KMO         LAIR1       LAP3        LBH        
+ [43] LDLR        LGALS1      LGALS3BP    LGALS9      LHFPL2      LILRB4     
+ [49] LIMK1       LIMK2       LINC01410   LINC01504   LMNB1       LMO2       
+ [55] LONRF1      LPP         LRG1        LRRCC1      LY6E        LY96       
+ [61] LYST        MAFB        MAP2K6      MAP3K6      MARCKS      MASTL      
+ [67] MCEMP1      MCTP2       MDM2        MERTK       METTL7A     MFHAS1     
+ [73] MGST3       MICB        MIR181A1HG  MIR4435-2HG MNDA        MOV10      
+ [79] MS4A4A      MSMO1       MT1E        MT1F        MT1X        MT2A       
+ [85] MTSS1       MVB12B      MX1         MX2         MXD1        MYC        
+ [91] MYD88       MYL12A      MYNN        MYOF        N4BP1       NADSYN1    
+ [97] NAMPT       NAPA        NCF1        NCF2        NCOA7       NEIL2      
+[103] NET1        NEXN        NFIA        NFIL3       NKG7        NLRC5      
+[109] NMI         NR1D2       NRIP1       NT5C2       NT5C3A      NTNG2      
+[115] NUDT16      OAS1        OAS2        OAS3        OASL        ODF3B      
+[121] OPTN        P2RY1       PAPOLG      PARP10      PARP11      PARP12     
+[127] PARP14      PARP15      PARP9       PATL1       PDE4D       PDE7A      
+[133] PDSS1       PER1        PER2        PFKP        PGAP1       PHACTR2    
+[139] PHC2        PHF11       PHRF1       PI4K2B      PICK1       PIGB       
+[145] PIM1        PIM3        PLAC8       PLBD1       PLD2        PLEKHG2    
+[151] PLSCR1      PML         PNPT1       POMP        PPDPF       PPM1K      
+[157] PPP1R3B     PRDM1       PRKCE       PSMA4       PSMB9       PSME2      
+[163] PSTPIP2     PTBP2       PTP4A1      PTPN22      PTPRC       PTPRO      
+[169] PTTG1       PXK         RAB13       RAB39A      RAD51B      RAPGEF2    
+[175] RASGEF1B    RASGRP1     RBCK1       RBM43       REC8        RGL1       
+[181] RICTOR      RIN1        RIN2        RNASE1      RNASE2      RNASE3     
+[187] RNASE6      RNASEH2C    RNF114      RNF144B     RNF145      RNF213     
+[193] RRAS        RRBP1       RSAD2       RTCB        RTP4        S100A12    
+[199] S100A8      S100A9      S100P       S1PR2       SAMD4A      SAMD9      
+[205] SAMD9L      SAMSN1      SAP30       SBNO2       SC5D        SCARB2     
+[211] SCCPDH      SCRG1       SECTM1      SELL        SERPINB10   SERPINB2   
+[217] SERPING1    SESN1       SH2B2       SH2B3       SH3PXD2B    SHISA5     
+[223] SHMT1       SIGLEC1     SIPA1L2     SLAMF7      SLAMF8      SLC15A4    
+[229] SLC16A6     SLC25A25    SLC2A3      SLC31A2     SLC35E3     SLC38A1    
+[235] SLC39A8     SLCO4C1     SLFN13      SLFN5       SMAD1       SMAP2      
+[241] SMCHD1      SMCR8       SMG7        SMYD3       SOCS3       SP100      
+[247] SP110       SP140       SPATA13     SPATS2L     SPTLC2      SQLE       
+[253] SRD5A1      SRGAP1      SSB         ST3GAL5     STAC3       STAMBPL1   
+[259] STARD4      STAT1       STAT2       STAT4       STOM        STX17      
+[265] SYNGR1      SYNJ2       TAF8        TAP1        TAP2        TCF4       
+[271] TCF7        TCF7L2      TCN2        TDRD7       TET3        TEX2       
+[277] THBS1       THRA        TIFA        TIMP1       TLR2        TMEM106A   
+[283] TMEM123     TMEM144     TMEM62      TNFAIP6     TNFSF10     TNFSF13B   
+[289] TNIK        TNIP1       TNNT1       TNPO3       TNS3        TOR1B      
+[295] TPCN2       TRAF3IP2    TRAPPC11    TRIM14      TRIM22      TRIM25     
+[301] TRIM5       TRIP6       TSC22D3     TTC39B      TUBB2A      TYK2       
+[307] TYMP        UACA        UBASH3B     UBE2J1      UBE2L3      UBE2L6     
+[313] UBE2S       UBXN2A      UPP1        USP18       VAMP5       VCAN       
+[319] VRK2        WARS        WASF1       WDFY4       WSB1        XAF1       
+[325] XPR1        XRN1        ZBP1        ZBTB16      ZC3H12D     ZC3HAV1    
+[331] ZCCHC2      ZFP90       ZNF101      ZNF441      ZNF496      ZNF510     
+[337] ZNF684      ZNFX1      
+
+CD16+ Monos
+  [1] IFIT1      IFIT2      IFIT3      IFIT5      IFITM1     IFITM2     IFITM3    
+  [8] IGF2R      IGFBP7     IKBKE      IKZF2      IKZF3      IL1RN      IL4I1     
+ [15] IL6ST      IRAK1      IRF5       IRF7       IRF8       IRS2       ISG15     
+ [22] ISG20      ITGAX      JADE2      JAK2       JAZF1      JUP        KCNJ2     
+ [29] KIAA0040   KLF9       KLHDC7B    KYNU       LAP3       LBH        LDLR      
+ [36] LGALS3BP   LGALS9     LGMN       LHFPL2     LILRB4     LIMK1      LMNB1     
+ [43] LPAR6      LPP        LRRCC1     LY6E       LY96       LYST       MAFB      
+ [50] MAP3K7CL   MARCKS     MARCO      MASTL      MDM2       METTL14    MFHAS1    
+ [57] MICB       MILR1      MIR181A1HG MNDA       MRPL42     MRPS18A    MRPS18C   
+ [64] MRVI1      MS4A4A     MS4A6A     MSMO1      MSR1       MT1E       MT1X      
+ [71] MT2A       MX1        MX2        MXD1       MYNN       N4BP1      NADSYN1   
+ [78] NAIP       NAPA       NCF2       NCOA7      NETO2      NEXN       NFE2L3    
+ [85] NLRC5      NMI        NR1D2      NR1H3      NRIP1      NT5C3A     OAS1      
+ [92] OAS2       OAS3       OASL       ODF3B      OPTN       P2RX7      P2RY2     
+ [99] PAPOLG     PARP10     PARP11     PARP12     PARP14     PARP15     PARP9     
+[106] PCNA       PER1       PFDN6      PHACTR2    PHC2       PHF11      PHPT1     
+[113] PHRF1      PI4K2B     PIM1       PLAC8      PLB1       PLBD1      PLD2      
+[120] PLD3       PLD4       PLK2       PLSCR1     PML        PNPT1      PPDPF     
+[127] PPM1K      PRRG4      PSME2      PTK2       PTP4A1     PTPRC      PTPRO     
+[134] PTTG1      PTX3       PVT1       PXK        QPCT       RAB39A     RAD51AP1  
+[141] RASGEF1B   RASGRP1    RBM43      RBX1       REC8       RGL1       RHOB      
+[148] RIN2       RNASE2     RNASE6     RNASEH2C   RNF114     RNF138     RNF144B   
+[155] RNF145     RNF213     RNF8       RPS27L     RSAD2      RTCB       RTP4      
+[162] S100A8     SAMD4A     SAMD9      SAMD9L     SAP30      SCAMP1-AS1 SCARB2    
+[169] SCCPDH     SELL       SERPING1   SESN1      SGMS2      SH2B3      SHISA5    
+[176] SIGLEC7    SLAMF6     SLAMF7     SLC15A4    SLC16A6    SLC25A25   SLC2A3    
+[183] SLC31A2    SMG7       SOCS3      SP100      SP110      SP140      SPATA13   
+[190] SPATS2L    SQLE       SRGAP1     SRGAP2     SRGN       SSB        ST3GAL4   
+[197] ST7L       STAB1      STAC3      STAT1      STAT2      STK17A     STOM      
+[204] STRADB     STX17      STX3       SYNGR1     TAF8       TAP1       TAP2      
+[211] TCF4       TCF7       TCN2       TDRD7      TET3       TFEC       THRA      
+[218] TIFA       TIMP1      TLR2       TMEM106A   TMEM123    TMEM140    TMEM30A   
+[225] TNFRSF13B  TNFSF10    TNFSF13B   TNIK       TNIP1      TNNT1      TNPO3     
+[232] TOR1B      TPCN2      TRAPPC11   TRIAP1     TRIM21     TRIM22     TRIM38    
+[239] TRIM5      TSC22D1    TXN        TYK2       UACA       UBE2L3     UBE2L6    
+[246] UBE2S      USP18      VAMP5      VCAN       VRK2       WDR26      XAF1      
+[253] XRN1       ZBP1       ZBTB16     ZCCHC2     ZFP90      ZNF350     ZNF684    
+[260] ZNF93      ZNFX1     
+
+pDC
+  [1] IFIT2    IFIT3    IFITM2   IGSF6    INSIG1   IRAK1    IRF4     IRF8    
+  [9] ISG15    ISG20    ITGB7    JAK2     JAZF1    LAP3     LBH      LGALS9  
+ [17] LGMN     LPP      LY6E     MAML2    MAP2K6   MCL1     MNDA     MT2A    
+ [25] MX1      MX2      MYD88    NAMPT    NAPA     NCF1     NDUFA9   NFKBIA  
+ [33] NMI      NT5C3A   OAS1     OAS2     P2RY6    PARP10   PARP12   PARP14  
+ [41] PFKP     PHF11    PIM3     PLD4     PLSCR1   PMAIP1   PNOC     PNPT1   
+ [49] PPA1     PPP1R14A PRKAG2   PSMA2    PSMA4    PSMB8    PSMB9    PSME1   
+ [57] PSME2    PTPRC    PXK      RAB29    RASD1    RCSD1    RGS1     RNASEH2C
+ [65] RNF114   S100A4   S100A6   SAMD9    SAMD9L   SCLT1    SCPEP1   SDF2L1  
+ [73] SIT1     SLC15A4  SMAP2    SMC6     SMG7     SMIM3    SMPD3    SNX6    
+ [81] SOCS1    SOX4     SP100    SP110    SPATS2L  SRGAP2   SRP14    ST3GAL4 
+ [89] STAT1    STAT2    STK17A   SUB1     SYNGR2   TAP1     TFEC     TNFAIP3 
+ [97] TNFSF10  TNFSF13B TRIM22   TRIM25   TSC22D3  TSPAN13  TXN      TYMP    
+[105] UBE2E1   UBE2L3   UBE2L6   WDFY4    XAF1     XRN1     ZFP36    ZFP36L2 
+
